@@ -3,7 +3,6 @@
 I'm the author of [Rebuilding Rails](https://rebuilding-rails.com), [Rebuilding HTTP](https://rebuilding-http.com), and [Mastering Software Technique](https://software-technique.com). I write a lot about Ruby performance and sometimes give conference talks.
 
 - [I write at codefol.io](https://codefol.io)
-- [Twitter](https://twitter.com/codefolio)
 - <a rel="nofollow me" href="https://ruby.social/@codefolio">Mastodon (ruby.social)</a>
 
 <!--
