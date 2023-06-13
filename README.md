@@ -3,7 +3,6 @@
 I'm the author of [Rebuilding Rails](https://rebuilding-rails.com), [Rebuilding HTTP](https://rebuilding-http.com), and [Mastering Software Technique](https://software-technique.com). I write a lot about Ruby performance and sometimes give conference talks.
 
 - [I write at codefol.io](https://codefol.io)
-- <a rel="nofollow me" href="https://ruby.social/@codefolio">Mastodon (ruby.social)</a>
 
 <!--
 **noahgibbs/noahgibbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
